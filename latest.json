@@ -1,8 +1,8 @@
 {
   "type": "match",
-  "title": "لم يتم العثور على مباراة",
-  "time": "-",
-  "status": "جاري التحديث...",
-  "source": "-",
-  "stream_url": "#"
+  "title": "برشلونة × ريال مدريد",
+  "time": "22:00",
+  "status": "مباشر الآن",
+  "source": "اختبار البوت",
+  "stream_url": "https://example.com/live/barca-vs-real"
 }
